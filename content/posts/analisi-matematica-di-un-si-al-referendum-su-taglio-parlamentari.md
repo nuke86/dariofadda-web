@@ -1,6 +1,6 @@
 ---
 title: "Analisi matematica di un sì al referendum su taglio parlamentari"
-date: 2020-08-27T13:24
+date: 2020-08-27T13:24:01+02:00
 tags: ["politic", "math"]
 type: "post"
 image: "/images/lorem-ipsum/quick-fox.png"
