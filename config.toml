@@ -10,7 +10,7 @@ googleAnalytics = ""
 
 [params]
 footer = "Nuke()"
-description = "Benvenuti, qui trovate tutte le mie info, attività e progetti svolti "
+description = "Benvenuti! Qui trovate tutte le mie info, attività e progetti svolti"
 avatarURL = "/images/avatar.webp"
 AvatarAltText = "avatar"
 avatarSize = "size-m"
