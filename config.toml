@@ -1,5 +1,5 @@
 baseURL = "https://gokarna-hugo.netlify.app"
-title = "dariofadda.it"
+title = "Dario Fadda"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -9,45 +9,37 @@ pygmentsStyle = "monokai"
 googleAnalytics = ""
 
 [params]
-footer = "The Marauders"
-description = "Sky above, sand below and peace within"
+footer = "Nuke()"
+description = "Benvenuti, qui trovate tutte le mie info, attività e progetti svolti "
 avatarURL = "/images/avatar.webp"
 AvatarAltText = "avatar"
 avatarSize = "size-m"
 customHeadHTML = "    <!-- KaTeX -->\n    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css\" integrity=\"sha384-Xi8rHCmBmhbuyyhbI88391ZKP2dmfnOl4rT9ZfRI7mLTdk1wblIUnrIq35nqwEvC\" crossorigin=\"anonymous\">\n    <script defer src=\"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js\" integrity=\"sha384-X/XCfMm41VSsqRNQgDerQczD69XqmjOOOwYQvr/uuC+j4OPoNhVgjdGFwhvN02Ja\" crossorigin=\"anonymous\"></script>\n    <script defer src=\"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js\" integrity=\"sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR\" crossorigin=\"anonymous\"></script>\n    <script>\n      document.addEventListener(\"DOMContentLoaded\", function() {\n        renderMathInElement(document.body, {\n          // customised options\n          // • auto-render specific keys, e.g.:\n          delimiters: [\n            {left: '$$', right: '$$', display: true},\n            {left: '$', right: '$', display: false},\n          ],\n          // • rendering keys, e.g.:\n          throwOnError : false\n        });\n      });\n    </script>\n  "
 metaKeywords = [
   "blog",
-  "gokarna",
-  "hugo"
+  "dariofadda",
+  "cybersecurity"
 ]
 
   [[params.socialIcons]]
   name = "twitter"
-  url = "https://example.com"
+  url = "https://twitter.com/nuke86"
 
   [[params.socialIcons]]
   name = "linkedin"
-  url = "https://example.com"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://example.com"
-
-  [[params.socialIcons]]
-  name = "dribbble"
-  url = "https://example.com"
+  url = "https://www.linkedin.com/in/dariofadda86/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BozYFBhM9RXSkFxsTNGowpQ%3D%3D"
 
   [[params.socialIcons]]
   name = "instagram"
-  url = "https://example.com"
-
+  url = "https://www.instagram.com/dari_fad/"
+  
   [[params.socialIcons]]
-  name = "twitch"
-  url = "https://example.com"
+  name = "facebook"
+  url = "https://www.facebook.com/darius.nuke"
 
   [[params.socialIcons]]
   name = "email"
-  url = "mailto:example@example.com"
+  url = "mailto:nuke@spcnet.it"
 
 [menu]
 
@@ -58,13 +50,13 @@ metaKeywords = [
   weight = 1.0
 
   [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   pre = "<span data-feather='book'></span>"
   url = "/posts/"
   weight = 2.0
 
   [[menu.main]]
-  name = "Projects"
+  name = "Progetti"
   pre = "<span data-feather='code'></span>"
   url = "/projects/"
   weight = 3.0
@@ -78,14 +70,8 @@ metaKeywords = [
   [[menu.main]]
   identifier = "github"
   pre = "<span data-feather='github'></span>"
-  url = "https://github.com/526avijitgupta/gokarna"
+  url = "https://github.com/nuke86"
   weight = 5.0
-
-  [[menu.main]]
-  identifier = "buymeacoffee"
-  pre = "<span data-feather='coffee'></span>"
-  url = "https://www.buymeacoffee.com/avijitgupta"
-  weight = 6.0
 
   [[menu.main]]
   identifier = "rss"
