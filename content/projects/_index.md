@@ -13,11 +13,11 @@ type: page
 5. [MercUsa](mercusa/)
 -----------------
 
+## Le mie attività forniscono servizi in questi campi
+
 **La sicurezza informatica sul mio blog [inSicurezzaDigitale.com](http://www.insicurezzadigitale.com)**
 
 [Qui](https://www.insicurezzadigitale.com/la-stampa-dice/) invece trovi tutte le mie citazioni e i contributi con il mondo della stampa.
-
-### Le mie attività forniscono servizi in questi campi
 
 *   Sviluppo algoritmi informatici su misura per aziende che potranno integrare nei loro prodotti già esistenti o per crearne di nuovi.
 *   Soluzioni software personalizzate per il business.
@@ -31,7 +31,7 @@ type: page
 *   more at [Spcnet/LABS](http://www.ilripostiglio.net/)
 -----------------
 
-### Attività recenti
+## Attività recenti
 
 *   Intervento al Linux Day 2016 - Cagliari, dal titolo: [PHP - Security](http://linuxday.gulch.it/node/76).
     *   Presto qui il video completo dell'intervento.
