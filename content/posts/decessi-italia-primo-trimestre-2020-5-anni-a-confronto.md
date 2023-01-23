@@ -12,4 +12,4 @@ L'ISTAT ha pubblicato nel mese di maggio 2020 i dati dei decessi giornalieri dal
 
 Per rendere questi dati visualizzabili dall'occhio umano è opportuno inserirli in un grafico, e questo qui di seguito è il risultato del confronto: l'evoluzione della mortalità nel primo trimestre degli ultimi cinque anni.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/4266005"><script src="https://public.flourish.studio/resources/embed.js"></script></div></div>
+[Grafico dataset](https://public.flourish.studio/visualisation/4266005/?utm_source=showcase&utm_campaign=visualisation/4266005)
