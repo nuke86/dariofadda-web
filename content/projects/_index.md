@@ -11,6 +11,7 @@ type: page
 3. [NodeMVC](nodemvc/)
 4. [htaccess-generator](htaccess-generator/)
 5. [MercUsa](mercusa/)
+-----------------
 
 **La sicurezza informatica sul mio blog [inSicurezzaDigitale.com](http://www.insicurezzadigitale.com)**
 
@@ -28,9 +29,9 @@ type: page
 *   Sviluppo e analisi di sistemi informatici software e hardware.
 *   **Consulenza indipendente su sicurezza dei dati e architettura del database.**
 *   more at [Spcnet/LABS](http://www.ilripostiglio.net/)
-
-### Attività recenti:
 -----------------
+
+### Attività recenti
 
 *   Intervento al Linux Day 2016 - Cagliari, dal titolo: [PHP - Security](http://linuxday.gulch.it/node/76).
     *   Presto qui il video completo dell'intervento.
