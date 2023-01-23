@@ -36,6 +36,14 @@ metaKeywords = [
   [[params.socialIcons]]
   name = "facebook"
   url = "https://www.facebook.com/darius.nuke"
+  
+  [[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UCP76hO_TFhcPBSTY29oXFNQ"
+  
+  [[params.socialIcons]]
+  name = "telegram"
+  url = "https://t.me/DarioFadda"
 
   [[params.socialIcons]]
   name = "email"
