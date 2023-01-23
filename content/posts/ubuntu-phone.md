@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu phone"
-date: 2020-07-27T14:30+08:00
+date: 2020-07-27T14:30:00+02:00
 description: "Da Ubuntu Phone ad Android (e viceversa)."
 tags: ["linux", "ubuntu", "smartphone"]
 type: post
