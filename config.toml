@@ -42,8 +42,12 @@ metaKeywords = [
   url = "https://www.youtube.com/channel/UCP76hO_TFhcPBSTY29oXFNQ"
   
   [[params.socialIcons]]
-  name = "curriculum"
-  url = "projects/cv"
+  name = "mastodon"
+  url = "https://mastodon.insicurezzadigitale.com/@nuke"
+  
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/nuke86"
 
   [[params.socialIcons]]
   name = "email"
@@ -76,9 +80,9 @@ metaKeywords = [
   weight = 4.0
 
   [[menu.main]]
-  identifier = "github"
-  pre = "<span data-feather='github'></span>"
-  url = "https://github.com/nuke86"
+  identifier = "CV"
+  pre = "<span data-feather='resume'></span>"
+  url = "/projects/cv"
   weight = 5.0
 
   [[menu.main]]
