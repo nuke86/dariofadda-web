@@ -44,8 +44,8 @@ date: 2019-07-30T23:50+02:00
     Azienda: In proprio  
     Settore: Programmatore / Sistemista / Analista  
     Tipo di impiego: Creazione e manutenzione costante di un gestionale per negozi dell’usato (MercUsa), completamente sviluppato per il Web, con gestione delle vendite e rimborsi ai clienti, gestione scontistica ed etichette, gestione stampe di documenti (ricevute di carico, vendita e movimenti), interfacciamento tramite API per il sito dell’azienda utilizzatrice. Progettazione e sviluppo di siti web su richiesta, statici e dinamici, per privati e aziende.
-
-#### Competenze informatiche <a name="info"></a>
+<a name="info"></a>
+#### Competenze informatiche
 
 *   Ottima conoscenza di sistemi Microsoft Windows quali: Server 2000, 2003 e superiori, per la gestione di reti aziendali; Xp, Vista, Seven e qualsiasi sistema operativo Microsoft per l'utilizzo Home.
 *   Ottima conoscenza di sistemi GNU/Linux e UNIX-Derivati (sviluppo e utilizzo prevalentemente su Debian e Ubuntu).
