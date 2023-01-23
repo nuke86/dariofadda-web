@@ -24,7 +24,7 @@ date: 2019-07-30T23:50+02:00
 *   Date: **26/08/2005 - 15/09/2008**  
     Azienda: Promotux s.n.c. Di Francesco Meloni, via G. Deledda 41, 09047 – Selargius (CA)  
     Settore: azienda informatica  
-    Tipo di impiego: Installazione, configurazione e manutenzione di reti informatiche, server, e computer home (supermercati SISA). Progettazione e realizzazione di siti web Dinamici e Statici (E-Linux.it; Kasual.it; OneLineSpot.com; Rudolfdanza.it). Progettazione e realizzazione gestionali per piccole/medie aziende (PromoGest). Per le competenze conseguite e messe in pratica si veda sezione [Competenze Informatiche](#info)
+    Tipo di impiego: Installazione, configurazione e manutenzione di reti informatiche, server, e computer home (supermercati SISA). Progettazione e realizzazione di siti web Dinamici e Statici (E-Linux.it; Kasual.it; OneLineSpot.com; Rudolfdanza.it). Progettazione e realizzazione gestionali per piccole/medie aziende (PromoGest). Per le competenze conseguite e messe in pratica si veda sezione [Competenze Informatiche](#competenze-informatiche)
 
 *   Date: **01/10/2008 - 30/09/2009**  
     Azienda: S.O.S. Associazione Volontari del Soccorso – via Cilea 79, Quartu Sant’Elena  
@@ -44,7 +44,7 @@ date: 2019-07-30T23:50+02:00
     Azienda: In proprio  
     Settore: Programmatore / Sistemista / Analista  
     Tipo di impiego: Creazione e manutenzione costante di un gestionale per negozi dell’usato (MercUsa), completamente sviluppato per il Web, con gestione delle vendite e rimborsi ai clienti, gestione scontistica ed etichette, gestione stampe di documenti (ricevute di carico, vendita e movimenti), interfacciamento tramite API per il sito dell’azienda utilizzatrice. Progettazione e sviluppo di siti web su richiesta, statici e dinamici, per privati e aziende.
-<a id="info"></a>
+
 #### Competenze informatiche
 
 *   Ottima conoscenza di sistemi Microsoft Windows quali: Server 2000, 2003 e superiori, per la gestione di reti aziendali; Xp, Vista, Seven e qualsiasi sistema operativo Microsoft per l'utilizzo Home.
