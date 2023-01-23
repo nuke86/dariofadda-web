@@ -5,7 +5,7 @@ date: 2021-01-26T21:29:01+08:00
 description: "L'Organizzazione Mondiale della Sanità (OMS) ha dichiarato COVID-19 come una pandemia poiché la minaccia ha investito praticamente il mondo intero"
 tags: ["covid"]
 type: post
-showTableOfContents: true
+showTableOfContents: false
 ---
 
 L'Organizzazione Mondiale della Sanità (OMS) ha dichiarato COVID-19 come una pandemia poiché la minaccia ha investito praticamente il mondo intero. Mentre COVID-19 sta causando il caos ovunque, i ricercatori e le aziende farmaceutiche di tutto il mondo stanno cercando di trovare una cura, ma perché? L'agenda dietro l'essere il primo a fare il vaccino è salvare vite umane o ottenere il brevetto e godere dei privilegi? Con la COVID-19 è iniziata anche una corsa agli armamenti globale completamente nuova: la corsa per possedere i diritti di brevetto per un vaccino anti COVID-19.
