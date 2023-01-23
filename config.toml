@@ -84,7 +84,7 @@ metaKeywords = [
   weight = 4.0
 
   [[menu.main]]
-  identifier = "CV"
+  name = "CV"
   pre = "<span data-feather='file'></span>"
   url = "/projects/cv"
   weight = 5.0
