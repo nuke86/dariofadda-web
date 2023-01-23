@@ -1,6 +1,7 @@
 ---
 title: MercUsa
 type: page
+date: 2019-07-30T23:50+02:00
 ---
 
 **MercUsa** è un ambizioso progetto per la realizzazione e manutenzione di un software gestionale Open Source per mercatini o negozi dell'usato. Ottimizzato sulla base delle normative fiscali italiane, nello specifico il Regime del Margine.
