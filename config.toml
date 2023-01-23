@@ -42,6 +42,10 @@ metaKeywords = [
   url = "https://www.youtube.com/channel/UCP76hO_TFhcPBSTY29oXFNQ"
   
   [[params.socialIcons]]
+  name = "tiktok"
+  url = "https://tiktok.com/@insicurezzadigitale"
+  
+  [[params.socialIcons]]
   name = "mastodon"
   url = "https://mastodon.insicurezzadigitale.com/@nuke"
   
