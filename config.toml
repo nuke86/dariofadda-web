@@ -81,7 +81,7 @@ metaKeywords = [
 
   [[menu.main]]
   identifier = "CV"
-  pre = "<span data-feather='resume'></span>"
+  pre = "<span data-feather='file'></span>"
   url = "/projects/cv"
   weight = 5.0
 
