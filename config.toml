@@ -42,8 +42,8 @@ metaKeywords = [
   url = "https://www.youtube.com/channel/UCP76hO_TFhcPBSTY29oXFNQ"
   
   [[params.socialIcons]]
-  name = "telegram"
-  url = "https://t.me/DarioFadda"
+  name = "curriculum"
+  url = "projects/cv"
 
   [[params.socialIcons]]
   name = "email"
