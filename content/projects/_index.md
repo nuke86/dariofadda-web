@@ -6,7 +6,9 @@ type: page
 
 ## Eccomi! Questi sono alcuni miei progetti
 
-Attualmente le mie energie sono rivolte principalmente al progetto [Ransomfeed.it](https://ransomfeed.it) - **Dashboard Ransomware Monitor**, una piattaforma aperta e accessibile a tutti per il monitoraggio puntuale e realtime di tutti gli attacchi ransomware del mondo (per lo meno quelli dei gruppi criminali già noti).
+*   Attualmente le mie energie sono rivolte principalmente al progetto [Ransomfeed.it](https://ransomfeed.it) - **Dashboard Ransomware Monitor**: una piattaforma aperta e accessibile a tutti per il monitoraggio puntuale e realtime di tutti gli attacchi ransomware del mondo (per lo meno quelli dei gruppi criminali già noti).
+
+Poi:
 
 1. [HackerAlert.it](hackeralert/)
 2. [Coronavirus-monitor Covid-19](coronavirus-monitor-covid-19/)
