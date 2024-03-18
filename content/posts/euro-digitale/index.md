@@ -14,7 +14,7 @@ digitale sarebbe emesso e garantito dalla Banca Centrale Europea (BCE), offrendo
 
 ### Processi di digitalizzazione delle valute centrali
 
-![](/content/posts/euro-digitale/images/ed-1.png)
+![](/posts/euro-digitale/images/ed-1.png)
 
 In **Cina** con il Digital Yuan (e-CNY) il progetto pilota è partito nel 2020, anch’esso è controllato dalla banca centrale e distribuito attraverso un modello ibrido in cui operatori autorizzati possono gestirlo consentendo anche un commercio transfrontaliero. Questo progetto è già stato sviluppato anche a lato pratico.
 In **Nigeria** con l’e-Naira la valuta digitale è operativa dal 2021, anche qui si adotta un modello ibrido di distribuzione solo per casi d’uso di commercio al dettaglio: le transazioni offline sono ancora in fase di test, mentre quelle online transano per 13 milioni tra i wallet dei cittadini.
@@ -58,12 +58,12 @@ I **campi di applicazione** sono:
 L’Euro Digitale può essere una grande opportunità anche per gli attuali servizi di fornitura e acquiring POS, lo strumento che utilizziamo per effettuare pagamenti elettronici all’interno di un negozio fisico. Questo deve cambiare e deve incorporare caratteristiche per pagamenti virtuali, esattamente come fossero scambi di criptovalute.
 Una semplice modifica per i reparti IT di tali fintech specializzate in pagamenti, ma un grande cambiamento per chi utilizzerà questa esperienza d’uso finale.
 Un prospect del risultato di tale implementazione può essere questo rappresentato dagli screen qui di seguito, con la ricerca di fintech che innovano in pagamenti digitali.
-![](/content/posts/euro-digitale/images/ed-2.png)
+![](/posts/euro-digitale/images/ed-2.png)
 
-![](/content/posts/euro-digitale/images/ed-3.png)
+![](/posts/euro-digitale/images/ed-3.png)
 
 Lato backend:
-![](/content/posts/euro-digitale/images/ed-4.png)
+![](/posts/euro-digitale/images/ed-4.png)
 
 
 I pagamenti non vengono dunque sostituiti. Contanti, Carte, Conti Bancari e altri pagamenti digitali continueranno ad esistere esattamente come ora. Lo scenario si arricchisce di alcune caratteristiche nei confronti dei pagamenti elettronici che conosciamo oggi. Si tratta di caratteristiche più simili al mondo del contante, ma in digitale:
@@ -82,7 +82,7 @@ Infatti attualmente non esiste uno strumento digitale europeo di pagamento che c
 
 ### Il piano di messa a terra del progetto e dove siamo
 
-![](/content/posts/euro-digitale/images/ed-5.png)
+![](/posts/euro-digitale/images/ed-5.png)
 
 Una volta pienamente implementato, l'euro digitale potrebbe essere utilizzato per una vasta gamma di transazioni, dalle piccole spese quotidiane agli acquisti online e internazionali. L'utilizzo di tecnologie come i codici QR garantirebbe la praticità e la sicurezza dei pagamenti, anche in assenza di connessione Internet.
 
