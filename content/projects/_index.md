@@ -7,6 +7,7 @@ type: page
 ## Eccomi! Questi sono alcuni miei progetti
 
 *   Attualmente le mie energie sono rivolte principalmente al progetto [Ransomfeed.it](https://ransomfeed.it) - **Dashboard Ransomware Monitor**: una piattaforma aperta e accessibile a tutti per il monitoraggio puntuale e realtime di tutti gli attacchi ransomware del mondo (per lo meno quelli dei gruppi criminali già noti).
+*   [Qui](https://www.insicurezzadigitale.com/la-stampa-dice/) invece trovi tutte le mie citazioni e i contributi con il mondo della stampa.
 
 Poi:
 
@@ -21,7 +22,6 @@ Poi:
 
 **La sicurezza informatica sul mio blog [inSicurezzaDigitale.com](http://www.insicurezzadigitale.com)**
 
-[Qui](https://www.insicurezzadigitale.com/la-stampa-dice/) invece trovi tutte le mie citazioni e i contributi con il mondo della stampa.
 
 *   Sviluppo algoritmi informatici su misura per aziende che potranno integrare nei loro prodotti già esistenti o per crearne di nuovi.
 *   Soluzioni software personalizzate per il business.
@@ -37,6 +37,7 @@ Poi:
 
 ## Attività recenti
 
+*   Intervento all'edizione 2024 del Cyber Journey a Cagliari, con il titolo [Ransomfeed: progetto e modalità di analisi della minaccia ransomware](https://cyberjourney.it/)
 *   Intervento al Linux Day 2016 - Cagliari, dal titolo: [PHP - Security](http://linuxday.gulch.it/node/76).
     *   Presto qui il video completo dell'intervento.
 *   Intervento al Linux Day 2015 - Cagliari, dal titolo: [MercUsa: il mondo dell'usato con un mercatino open](http://linuxday.gulch.it/node/67). Il video completo dell'intervento su [YouTube](https://www.youtube.com/watch?v=2cyUsZTMCbI).
