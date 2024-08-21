@@ -8,6 +8,7 @@ type: page
 
 *   Attualmente le mie energie sono rivolte principalmente al progetto [Ransomfeed.it](https://ransomfeed.it) - **Dashboard Ransomware Monitor**: una piattaforma aperta e accessibile a tutti per il monitoraggio puntuale e realtime di tutti gli attacchi ransomware del mondo (per lo meno quelli dei gruppi criminali già noti).
 *   [Qui](https://www.insicurezzadigitale.com/la-stampa-dice/) invece trovi tutte le mie citazioni e i contributi con il mondo della stampa.
+*   Se invece cerchi un servizio di File Transfer e condivisione di dati online, ho creato [italCloud.eu](https://www.italcloud.eu): un progetto 100% italiano che ridefinisce gli standard di sicurezza e privacy online, senza tracciare gli indirizzi IP degli utenti.
 
 Poi:
 
