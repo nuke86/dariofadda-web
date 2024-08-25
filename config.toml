@@ -47,7 +47,7 @@ metaKeywords = [
   
   [[params.socialIcons]]
   name = "mastodon"
-  url = "https://mastodon.insicurezzadigitale.com/@nuke"
+  url = "https://poliversity.it/@nuke"
   
   [[params.socialIcons]]
   name = "github"
