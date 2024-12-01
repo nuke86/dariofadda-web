@@ -95,6 +95,12 @@ metaKeywords = [
   url = "/index.xml"
   weight = 7.0
 
+  [[menu.main]]
+  identifier = "status"
+  pre = "<span data-feather='list'></span>"
+  url = "https://statuspage.freshping.io/60815-DariusStatusPage"
+  weight = 7.0
+
 [markup]
 
   [markup.tableOfContents]
