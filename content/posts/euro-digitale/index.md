@@ -1,7 +1,7 @@
 ---
 title: "Euro Digitale: come funziona e come verrà implementato"
 date: 2024-03-18T13:24:01+02:00
-tags: ["fintech", "banche", "Europa", "valuta digitale"]
+tags: ["fintech", "banche", "Europa", "valuta digitale", "EuroDigitale"]
 type: "post"
 image: "/images/lorem-ipsum/quick-fox.png"
 showTableOfContents: true
