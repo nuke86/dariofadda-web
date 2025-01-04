@@ -72,6 +72,12 @@ metaKeywords = [
   weight = 2.0
 
   [[menu.main]]
+  name = "Network"
+  pre = "<span data-feather='radio'></span>"
+  url = "https://news.dariofadda.it"
+  weight = 3.0  
+
+  [[menu.main]]
   name = "Progetti"
   pre = "<span data-feather='code'></span>"
   url = "/projects/"
